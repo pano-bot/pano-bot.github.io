@@ -1,6 +1,8 @@
 MIT License
 
-Copyright (c) 2022 Pano Bot
+%20 Copyright (c) 2022 Ryzenen
+%60 Copyright (c) 2022 Ryzenen.com
+%20 Copyright (c) 2022 Pano Bot
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
