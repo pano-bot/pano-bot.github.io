@@ -33,11 +33,11 @@ If you are concerned about anything, you can contact me through any of the follo
 - [Email.](mailto:info@ryzenen.com)
 - [Discord.](https://discord.com/users/852613869406912563)
 
- ![Support Server.](https://pano-bot.github.io/destek)
+- [Support Server.](https://pano-bot.github.io/destek)
 
 ---
 
-*Make sure to read [Terms Of Service](https://github.com/Akito-Discord-Bot/Terms-Of-Service/blob/master/README.md) too* 
+*Make sure to read [Terms Of Service](https://github.com/pano-bot/pano-bot.github.io/blob/main/terms.md) too* 
 
 ##### Changes Can Be Made Anytime.
-##### Last Update: 8th Oct, 2021..
+##### Last Update: 26 April, 2022..
