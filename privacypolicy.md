@@ -33,7 +33,7 @@ If you are concerned about anything, you can contact me through any of the follo
 - [Email.](mailto:info@ryzenen.com)
 - [Discord.](https://discord.com/users/852613869406912563)
 
- ![Support Server](https://pano-bot.github.io/destek)
+ ![Support Server.](https://pano-bot.github.io/destek)
 
 ---
 
